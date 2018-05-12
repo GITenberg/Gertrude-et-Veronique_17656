@@ -1,0 +1,31 @@
+_repo: Gertrude-et-Veronique_17656
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Theuriet, André
+    aliases:
+    - Theuriet, Claude Adhémar André
+    - Theuriet, Andre
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '1340'
+    url: http://www.gutenberg.org/2009/agents/1340
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17656'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Gertrude et Veronique
+url: http://www.gutenberg.org/ebooks/17656
